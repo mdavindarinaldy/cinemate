@@ -90,7 +90,7 @@ function HomePage() {
                       <img src={customer} className='size-[3svw]' alt="icon" />
                       <span className='font-bold text-base lg:text-lg'>24/7 Customer Support</span>
                     </div>
-                    <span className='font-light text-xs lg:text-sm'>Lorem ipsum dolor sit amet, consectetur adipis elit. Sit enim nec, proin faucibus nibh et sagittis a.</span>
+                    <span className='font-light text-xs lg:text-sm'>Lorem ipsum dolor sit amet, consectetur adipis elit.</span>
                   </div>
                 </div>
               </div>
